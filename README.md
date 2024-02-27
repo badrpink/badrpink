@@ -15,4 +15,4 @@
 <p>Student at ...</p>
 
 <h3>📧 Contact</h3>
-<p>Feel free to reach out to me via [mel-ward@student.1337.ma]</p>
+<p>Feel free to reach out to me via ...</p>
